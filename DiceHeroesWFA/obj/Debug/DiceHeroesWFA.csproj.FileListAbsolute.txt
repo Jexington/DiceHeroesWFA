@@ -1,0 +1,15 @@
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\bin\Debug\DiceHeroesWFA.exe.config
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\bin\Debug\DiceHeroesWFA.exe
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\bin\Debug\DiceHeroesWFA.pdb
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\DiceHeroesWFA.csprojAssemblyReference.cache
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\DiceHeroesWFA.frmDiceHeroes.resources
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\DiceHeroesWFA.Properties.Resources.resources
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\DiceHeroesWFA.csproj.GenerateResource.cache
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\DiceHeroesWFA.csproj.CoreCompileInputs.cache
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\DiceHeroesWFA.exe
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\DiceHeroesWFA.pdb
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jexington\source\repos\DiceHeroesWFA\DiceHeroesWFA\obj\Debug\DiceHeroesWFA.csproj.ResolveComReference.cache
